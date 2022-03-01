@@ -1,0 +1,16 @@
+id: cc7738d646454212b569a7b3b0d6660e
+annotation_type: index
+revision: '00001'
+annotations:
+  bb62a9de71764e8eae52eaf783baf98f:
+    work_id: W03F7000D
+    span:
+      vol: CI_Vastu
+      start: 0
+      end: 190845
+  120bf4bfafb3469383d6ac10d6871ef7:
+    work_id: W09104E1E
+    span:
+      vol: CI_Vibhaṅga
+      start: 0
+      end: 505875

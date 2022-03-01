@@ -1,0 +1,18 @@
+id: PC8DEAD65
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,01: Upāliparipṛcchā'
+  language: bo
+  volumes:
+    f63d93de9d0b40579d4a35858e41aab8:
+      title: CI_Vastu
+      base_file: CI_Vastu.txt
+      work_id: W03F7000D
+    a50ebe8e0568441c8e986dcb042e9ec6:
+      title: CI_Vibhaṅga
+      base_file: CI_Vibhaṅga.txt
+      work_id: W09104E1E
+  chapter_to_tile:
+    CI: Upāliparipṛcchā
+created_at: '2022-03-01T22:53:18.069963'
+last_modified_at: '2022-03-01T22:53:18.069971'
